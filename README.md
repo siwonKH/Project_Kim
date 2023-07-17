@@ -2,4 +2,4 @@
 Team.KHPT
 
 
-Moved to [here](https://github.com/Team-KHPT/Project_Kim)
+Moved to [here](https://github.com/Team-KHPT/Project_Kim_Prototype)
